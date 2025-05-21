@@ -4,12 +4,12 @@ body{
 
 
 .custom-footer {
-    color: white;                     /* texto blanco */
-    min-height: 120px;                /* altura */
-    display: flex;                    /* centrado verticalmente */
+    color: white;                  /* texto blanco */
+    min-height: 120px;               /* altura */
+    display: flex;                   /* centrado verticalmente */
     align-items: center;
     padding-left: 50px;              /* distancia desde el margen izquierdo */
-    border: 2px solid black;          /* borde negro */
+    border: 2px solid black;       /* borde negro */
   }
 
 .custom-footer a {
