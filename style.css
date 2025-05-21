@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(43deg, #315430 11%, #37bde6 49%, #eff0d1 100%) ;
+}
+
+
+.custom-footer {
+    color: white;                     /* texto blanco */
+    min-height: 120px;                /* altura */
+    display: flex;                    /* centrado verticalmente */
+    align-items: center;
+    padding-left: 50px;              /* distancia desde el margen izquierdo */
+    border: 2px solid black;          /* borde negro */
+  }
+
+.custom-footer a {
+    color: white;
+    text-decoration: none;            /* sin subrayado */
+    font-style: italic;               /* texto en cursiva */
+  }
+.custom-footer a:hover {
+    text-decoration: underline;       /* subrayado solo al pasar el mouse */
+}
